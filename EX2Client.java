@@ -1,4 +1,4 @@
-//Michael Ly, CS380
+//Michael L, CS380
 import java.nio.ByteBuffer;
 import java.util.*;
 import java.io.*;
